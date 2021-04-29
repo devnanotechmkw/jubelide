@@ -3506,7 +3506,7 @@ a:hover {
 	-moz-border-radius: 100px;
 	-ms-border-radius: 100px;
 	-o-border-radius: 100px;
-	border-radius: 100px;
+	border-radius: 10px;
 	height: 90px;
 	object-fit: cover;
 }
